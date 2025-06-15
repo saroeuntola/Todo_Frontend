@@ -1,4 +1,4 @@
 import axios from "axios";
 export const baseURL = axios.create({
-  baseURL: "http://127.0.0.1:8000/api",
+  baseURL: "http://3.0.120.140:8080/api",
 });
